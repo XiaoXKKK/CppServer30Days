@@ -1,5 +1,5 @@
 server:
-	g++ -o ./bin/server server.cpp -std=c++11 & ./bin/server
+	g++ -o ./bin/server server.cpp utils.cpp -std=c++11 & ./bin/server
 
 client:
-	g++ -o ./bin/client client.cpp -std=c++11 & ./bin/client
+	g++ -o ./bin/client client.cpp utils.cpp -std=c++11 & ./bin/client
