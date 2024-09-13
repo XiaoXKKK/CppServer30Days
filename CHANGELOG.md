@@ -11,3 +11,7 @@
 `SIGINT` & `SIGSTP`
 
 `jobs` & `fg`
+
+1. pragma once
+2. make clean
+3. close every file descriptor
