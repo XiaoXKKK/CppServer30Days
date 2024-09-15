@@ -15,3 +15,7 @@
 1. pragma once
 2. make clean
 3. close every file descriptor
+
+## 03 - Epoll
+* switch to Linux
+![alt text](./img/03.png)
